@@ -1,0 +1,22 @@
+<store>
+  <mod>
+    <name>Mod 1</name>
+    <id>1</id>
+    <version>1.0.0</version>
+  </mod>
+  <mod>
+    <name>Mod 2</name>
+    <id>2</id>
+    <version>1.0.0</version>
+  </mod>
+  <mod>
+    <name>Mod 3</name>
+    <id>3</id>
+    <version>1.0.0</version>
+  </mod>
+  <mod>
+    <name>Mod 4</name>
+    <id>4</id>
+    <version>1.0.0</version>
+  </mod>   
+</store>
